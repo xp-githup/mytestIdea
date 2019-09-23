@@ -8,11 +8,9 @@ public class TestSpringSecurity {
         String s = encoder.encode("123");
         System.out.println(s);
 
-
-
-
-
-
-
       }
+      @Test
+        public void fun() {
+
+        }
 }
