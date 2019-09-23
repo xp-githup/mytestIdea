@@ -16,6 +16,9 @@ public class TestSpringSecurity {
 
 
 
+      }
+      @Test
+        public void fun() {
 
       }
 }
